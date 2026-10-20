@@ -19,9 +19,6 @@ Key Features:
     Recovery Services Vault
     Azure Backup
 
-Architecture
-The environment follows a Hub-and-Spoke architecture consisting of a central Hub VNet and dedicated Application and Management spoke networks.
-
 Architecture Diagram
 <img width="1522" height="794" alt="HubAndSpokeArchitecture" src="https://github.com/user-attachments/assets/d90c1e07-bf92-4051-ba1d-19b2e69f26d9" />
 
